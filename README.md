@@ -30,9 +30,9 @@
    - Technology facilitates community involvement in forest management through platforms that provide information, educational resources, and opportunities for collaboration. Social media and mobile apps can also raise awareness about sustainable practices.
 
 ### 10. Predictive Modeling for Forest Health:
-    - Advanced modeling techniques help predict the spread of pests and diseases, enabling proactive measures to mitigate their impact on forest ecosystems.
+   - Advanced modeling techniques help predict the spread of pests and diseases, enabling proactive measures to mitigate their impact on forest ecosystems.
 
 ### 11. Precision Conservation Planning:
-    - GIS and remote sensing technologies aid in identifying areas with high conservation value, helping planners make informed decisions about where to prioritize conservation efforts.
+   - GIS and remote sensing technologies aid in identifying areas with high conservation value, helping planners make informed decisions about where to prioritize conservation efforts.
 
 ### By leveraging these technologies, forest managers can make informed decisions, promote sustainable practices, and contribute to the conservation and preservation of global forest ecosystems.
